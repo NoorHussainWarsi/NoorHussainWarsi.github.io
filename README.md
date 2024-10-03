@@ -1,4 +1,3 @@
-# Welcome to My Interactive Portfolio
 
 Explore my projects, interact with them, and see how I bring data to life with visualizations and machine learning models.
 
